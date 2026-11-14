@@ -1,0 +1,10 @@
+{
+  "description": "Leaf & Root helps plant owners identify plants, understand their care needs, and build personalized routines. Monitor plant health with optional smart sensors and access guides and community support.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
